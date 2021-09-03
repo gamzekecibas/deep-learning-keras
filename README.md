@@ -8,4 +8,4 @@ Deep Learning trainings:
   
 02- reuters-muliclass.ipynb: Multiclass Classification (Reuters set)  
 03- regression-price-prediction.ipyb: Regression (Boston Housing set)  
-
+  - Step 09: Adding weight regularization (from CH4).
