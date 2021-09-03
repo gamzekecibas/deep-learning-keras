@@ -5,8 +5,8 @@ Deep Learning trainings:
 -------------------------
 01- imdb-set.ipyb: Binary Classification (IMDB set)        
 - It includes network size effect on training and validation loss. It may be important to avoid overfitting or underfitting.  
-- Step 09: Dropout Effect is studied as different dropout rates and its effect on the different size networks.
+- *Step 09:* Dropout Effect is studied as different dropout rates and its effect on the different size networks.
   
 02- reuters-muliclass.ipynb: Multiclass Classification (Reuters set)  
 03- regression-price-prediction.ipyb: Regression (Boston Housing set)  
-  - Step 09: Adding weight regularization (from CH4).
+  - *Step 09:* Adding weight regularization (from CH4).
