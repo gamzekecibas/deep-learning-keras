@@ -1,8 +1,7 @@
 # deep-learning-keras
-Learning process for Deep Learning with Python
+Learning to Deep Learning is in progress! :)
 
-Deep Learning trainings:
--------------------------
+## Examples in the Deep Learning with Python by François Chollet
 01- [imdb-set.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/imdb-set.ipynb): Binary Classification (IMDB set)        
 - It includes network size effect on training and validation loss. It may be important to avoid overfitting or underfitting.  
 - *Step 09:* Dropout Effect is studied as different dropout rates and its effect on the different size networks (from CH4).
