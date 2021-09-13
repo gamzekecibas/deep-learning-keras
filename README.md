@@ -3,11 +3,11 @@ Learning to Deep Learning is in progress! :)
 
 ## Examples in the Deep Learning with Python by François Chollet
 - [01-binary-classification.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/imdb-set.ipynb): Binary Classification (IMDB set)        
-  - It includes network size effect on training and validation loss. It may be important to avoid overfitting or underfitting.  
-   - *Step 09:* Dropout Effect is studied as different dropout rates and its effect on the different size networks (from CH4).
   
 - [02-multiclass-classification.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/reuters-multiclass.ipynb): Multiclass Classification (Reuters set)
 - [03-binary-classification-iterations](https://github.com/gamzekecibas/deep-learning-keras/blob/main/04-binary-classification-iterations.ipynb): Different validations are investigated.
+   - It includes *network size effect* on training and validation loss. It may be important to avoid overfitting or underfitting.  
+  - *Dropout Effect* is studied as different dropout rates and its effect on the different size networks (from CH4).
 - [04-regression.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/regression-price-prediction.ipynb): Regression (Boston Housing set)  
   - *Step 09:* Adding weight regularization (from CH4).
 - [05-one-hot-encoding.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/05-one-hot-encoding.ipynb)
