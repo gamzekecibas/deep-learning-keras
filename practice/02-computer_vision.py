@@ -8,7 +8,7 @@ Original file is located at
 
 Global AI Hub- Day 3 by İrem Kömürcü  
 Computer Vision  
-Convoluntional Neural Networks (CNNs)
+Convolutional Neural Networks (CNNs)
 Classification w/ CIFAR-10 dataset
 """
 
