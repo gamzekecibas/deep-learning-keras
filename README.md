@@ -14,3 +14,5 @@ Learning to Deep Learning is in progress! :)
 
 ## In [Practice](https://github.com/gamzekecibas/deep-learning-keras/tree/main/practice):
 - [01-basic-perceptron.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/practice/basic-perceptron.ipynb): The script is presented how an ANN model works fundamentally.
+- [02-computer_vision.py](https://github.com/gamzekecibas/deep-learning-keras/blob/main/practice/02-computer_vision.py): Convolutional Neural Network (CNN) study with CIFAR-10 dataset. It is a Google Colab project.
+- [03-perceptron-fundamentals](https://github.com/gamzekecibas/deep-learning-keras/blob/main/practice/03-perceptron-fundamentals.ipynb): Fundamentals of neural networks with logical operations by [mcobanov](https://github.com/cobanov)'s study.
