@@ -9,7 +9,10 @@ Learning to Deep Learning is in progress! :)
 - [04-binary-classification-iterations.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/04-binary-classification-iterations.ipynb): Different validations are investigated with Binary Classification Example.  
    - It includes *network size effect* on training and validation loss. It may be important to avoid overfitting or underfitting.  
   - *Dropout Effect* is studied as different dropout rates and its effect on the different size networks (from CH4).
-- [05-one-hot-encoding.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/05-one-hot-encoding.ipynb): One hot encoding is studied as intro to RNN and backpropagation training.  
+- [05-one-hot-encoding.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/05-one-hot-encoding.ipynb): One hot encoding is studied as intro to RNN and backpropagation training.
+- [06- Using Embedding Layers.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/06-EmbeddingLayer.ipynb): Introduction to Embedding layers
+- [07-implementing-raw-data.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/07-implementing-raw-data.ipynb): IMDB raw data is used in the script.  
+  **Please download** [ascIImdb](http://mng.bz/0tIo) and [GloVe 100d](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt) to run the code.
 
 ## In [Practice](https://github.com/gamzekecibas/deep-learning-keras/tree/main/practice):
 - [01-basic-perceptron.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/practice/basic-perceptron.ipynb): The script is presented how an ANN model works fundamentally.
