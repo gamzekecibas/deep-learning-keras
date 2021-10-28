@@ -15,7 +15,8 @@ Learning to Deep Learning is in progress! :)
   -   **Please download** [ascIImdb](http://mng.bz/0tIo) and [GloVe 100d](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt) to run the code and **update _dir= r('...')**.         
 - [08-recurrent-NN.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/08-recurrent-NN.ipynb): SimpleRNN method is used with IMDB dataset and there are two iterations with *dropout layer* and *validation split rate*.      
 - [09-LSTM-imdb.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/09-LSTM-imdb.ipynb): Sample LSTM model is created.
-- [10-weather-forecasting.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/10-weather-forecasting.ipynb): Timeseries is worked on the model by [jena_climate_2009_2016](https://www.kaggle.com/stytch16/jena-climate-2009-2016) dataset. LSTM model is trained. *GRU based and its dropout regularized models* are used.  
+- [10-weather-forecasting.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/10-weather-forecasting.ipynb): Timeseries is worked on the model by [jena_climate_2009_2016](https://www.kaggle.com/stytch16/jena-climate-2009-2016) dataset. LSTM model is trained. *GRU based, its dropout regularized, and 1D convnet models* are used.
+- [11-1D-convnet.ipynb](https://github.com/gamzekecibas/deep-learning-keras/blob/main/11-1D-convnet.ipynb): Convnet model that is combination of CNN and RNN architectures. It is used to shorten long sequences.    
     
 ---  
 ## In [Practice](https://github.com/gamzekecibas/deep-learning-keras/tree/main/practice):
